@@ -3,8 +3,6 @@
 A **TypeScript-based utility library** that provides a collection of reusable helper functions for JavaScript and TypeScript projects.  
 Built using **[tsup](https://github.com/egoist/tsup)** — supports both **CommonJS (CJS)** and **ES Modules (ESM)**, so it works seamlessly in both **Node.js** and **browser-based (React/Vite)** environments.
 
-> ⚠️ **Note:** This is a learning project built for exploring TypeScript, tsup, and utility function design patterns.
-
 ---
 
 ## 🚀 Features
